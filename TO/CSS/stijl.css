@@ -1,3 +1,15 @@
 h1 {
-    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+    color: dimgrey;
+}
+ul{
+    color: teal;
+    font-family: sans-serif;
+}
+.Overmezelf {
+    color: dimgrey;
 }
