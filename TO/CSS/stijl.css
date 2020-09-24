@@ -4,7 +4,8 @@ h1 {
 }
 
 p {
-    font-family: sans-serif;
+    font-family: cursive;
+    color: royalblue;
     
 }
 ul{
@@ -46,4 +47,18 @@ a:hover {
 /* selected link */
 a:active {
   color: blue;
+}
+
+.hond{
+    Color: red;
+    font-family: cursive;
+}
+
+.Wonen {
+    Color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Einde {
+    Color: darkblue;
+    font-family: cursive;
 }
