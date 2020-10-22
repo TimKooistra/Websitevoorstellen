@@ -77,7 +77,29 @@ a:link {
     Font-size: 20px;
     text-align: left;
     Padding-left: 20px;
+    padding-top: 0;
 }
+a:visited{
+    color:red;
+
+}
+a:default{
+    color:red;
+}
+#plaatje{
+   
+    padding-top: 45px;
+}
+ #Monaco{
+    padding-left: 500px;
+}
+#plaatjes{
+    padding-left: 500px;
+    padding-top: 25px;
+    
+}
+
+
 
 
 
