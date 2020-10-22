@@ -69,6 +69,13 @@ a:active{
 }
 a:link {
   text-decoration: none;
+}p{
+    color:white;
+}
+#inhoud{
+    Font-size: 20px;
+    text-align: left;
+    Padding-left: 20px;
 }
 
 
