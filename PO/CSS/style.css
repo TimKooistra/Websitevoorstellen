@@ -7,7 +7,7 @@ h1 {
 #container{
     background-color: black;
     width: 1700px;
-    height: 1000px;
+    height: 1500px;
     margin:5%;
     margin-top: 50px;
     
@@ -71,6 +71,7 @@ a:link {
   text-decoration: none;
 }p{
     color:white;
+    font-family: 'Times New Roman', Times, serif
 }
 #inhoud{
     Font-size: 20px;
