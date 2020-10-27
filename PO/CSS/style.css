@@ -96,8 +96,14 @@ a:default{
 #plaatjes{
     padding-left: 500px;
     padding-top: 25px;
-    
+    height: 300px;
 }
+
+#Max{
+    padding-left: 500px;
+}
+    
+
 
 
 
